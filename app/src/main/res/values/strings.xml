@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RealtimeDbDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Editor Activity -->
+    <string name="name_hint">Name</string>
+    <string name="mobile_hint">Mobile</string>
+    <string name="address_hint">Address</string>
+    <string name="submit_button_text">Submit</string>
+
+</resources>
